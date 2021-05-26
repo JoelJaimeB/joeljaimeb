@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **VideoGames, Read, Adventure and Family**
 
-<img src="https://github-readme-stats.vercel.app/api?username=sperezm97&show_icons=true" alt="sperezm97" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=alexblandino&show_icons=true" alt="alexblandino" /> </p>
 
 <p align="center">
 <a href="https://twitter.com/alexblandinoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alexblandinoo" height="35" width="35" /></a>
