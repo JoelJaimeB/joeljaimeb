@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey 👋, I'm Joel (Alex) !!</h1>
+<h1 align="center">Hey 👋, I'm Joel (Alex) Blandino !!</h1>
 <h3 align="center">I'm a Remote Software Engineer from the Dominican Republic ☀️ 🌴</h3>
 <hr/>
 
-- 🔭 I’m currently working on **@opticrd**
+- 🔭 I’m currently working on **@opticrd** && **Qalorie, LLC**
 
-- 👯 I’m looking to collaborate on **Mobile Apps**
+- 👯 I’m looking to collaborate.
+
+- 🌱 I’m currently learning Computer Vision with Tensorflow
 
 - 📫 How to reach me **joel.alexander.jaime[at]gmail.com**
 
